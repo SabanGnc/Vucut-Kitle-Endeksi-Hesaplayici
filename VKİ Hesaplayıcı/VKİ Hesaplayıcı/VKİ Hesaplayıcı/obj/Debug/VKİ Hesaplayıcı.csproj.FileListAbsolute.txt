@@ -1,0 +1,13 @@
+C:\Users\saban\OneDrive\Masaüstü\VKİ Hesaplayıcı\VKİ Hesaplayıcı\VKİ Hesaplayıcı\bin\Debug\VKİ Hesaplayıcı.exe.config
+C:\Users\saban\OneDrive\Masaüstü\VKİ Hesaplayıcı\VKİ Hesaplayıcı\VKİ Hesaplayıcı\bin\Debug\VKİ Hesaplayıcı.exe
+C:\Users\saban\OneDrive\Masaüstü\VKİ Hesaplayıcı\VKİ Hesaplayıcı\VKİ Hesaplayıcı\bin\Debug\VKİ Hesaplayıcı.pdb
+C:\Users\saban\OneDrive\Masaüstü\VKİ Hesaplayıcı\VKİ Hesaplayıcı\VKİ Hesaplayıcı\obj\Debug\VKİ Hesaplayıcı.csproj.AssemblyReference.cache
+C:\Users\saban\OneDrive\Masaüstü\VKİ Hesaplayıcı\VKİ Hesaplayıcı\VKİ Hesaplayıcı\obj\Debug\VKİ Hesaplayıcı.csproj.SuggestedBindingRedirects.cache
+C:\Users\saban\OneDrive\Masaüstü\VKİ Hesaplayıcı\VKİ Hesaplayıcı\VKİ Hesaplayıcı\obj\Debug\VKİ_Hesaplayıcı.Form1.resources
+C:\Users\saban\OneDrive\Masaüstü\VKİ Hesaplayıcı\VKİ Hesaplayıcı\VKİ Hesaplayıcı\obj\Debug\VKİ_Hesaplayıcı.Properties.Resources.resources
+C:\Users\saban\OneDrive\Masaüstü\VKİ Hesaplayıcı\VKİ Hesaplayıcı\VKİ Hesaplayıcı\obj\Debug\VKİ Hesaplayıcı.csproj.GenerateResource.cache
+C:\Users\saban\OneDrive\Masaüstü\VKİ Hesaplayıcı\VKİ Hesaplayıcı\VKİ Hesaplayıcı\obj\Debug\VKİ Hesaplayıcı.csproj.CoreCompileInputs.cache
+C:\Users\saban\OneDrive\Masaüstü\VKİ Hesaplayıcı\VKİ Hesaplayıcı\VKİ Hesaplayıcı\obj\Debug\VKİ Hesaplayıcı.exe
+C:\Users\saban\OneDrive\Masaüstü\VKİ Hesaplayıcı\VKİ Hesaplayıcı\VKİ Hesaplayıcı\obj\Debug\VKİ Hesaplayıcı.pdb
+C:\Users\saban\OneDrive\Masaüstü\VKİ Hesaplayıcı\VKİ Hesaplayıcı\VKİ Hesaplayıcı\bin\Debug\Guna.UI2.dll
+C:\Users\saban\OneDrive\Masaüstü\VKİ Hesaplayıcı\VKİ Hesaplayıcı\VKİ Hesaplayıcı\obj\Debug\VKİ Hesaplayıcı.csproj.CopyComplete
