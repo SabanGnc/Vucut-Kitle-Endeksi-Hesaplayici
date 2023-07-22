@@ -1,6 +1,6 @@
 # 🧮 Vücut Kitle İndeksi (VKİ) Hesaplayıcı
 
-![Ekran görüntüsü 2023-07-22 233259](https://github.com/SabanGnc/Vucut-Kitle-Endeksi-Hesaplayici/assets/139702707/a602de35-962f-486d-b007-188e9c9ea0b6)
+![Ekran görüntüsü 2023-07-22 233337](https://github.com/SabanGnc/Vucut-Kitle-Endeksi-Hesaplayici/assets/139702707/725c9e4e-9bfa-455e-9917-24755b51ef35)
 
 
 # Özellikler
