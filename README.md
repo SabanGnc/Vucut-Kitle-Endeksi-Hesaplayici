@@ -2,7 +2,13 @@
 
 ![Ekran görüntüsü 2023-07-22 233337](https://github.com/SabanGnc/Vucut-Kitle-Endeksi-Hesaplayici/assets/139702707/725c9e4e-9bfa-455e-9917-24755b51ef35)
 
+# Özellikler
 
+- Kullanıcının boy 📏 ve kilo ⚖️ bilgisini girebilme
+- VKİ hesaplama ve sonucu gösterme 📈
+- VKİ'ye göre değerlendirme ve durumu gösterme 🏋️‍♂️
+- Formun ekran ortasında açılması ve boyutunun sabitlenmesi 🖥️
+- Formun taşınamaz hale getirilmesi 🚫
 
 
 # VKİ Hesaplama Formülü
