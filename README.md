@@ -39,7 +39,7 @@ VKİ sonucuna göre kullanıcıyı aşağıdaki kategorilere ayırıyoruz:
 2. "Hesapla" düğmesine tıklayın.
 3. VKİ sonucunu ve VKİ'ye göre durumunu görüntüleyin 📋
 
-4. <div align="center">
+<div align="center">
   <a href="https://github.com/SabanGnc">
     <img src="https://github.com/SabanGnc/SabanGnc/assets/139702707/cc75e47a-eda0-498f-bc38-1a9a3e6ea37c" alt="Github Stats" width="1200">
   </a>
@@ -49,6 +49,7 @@ VKİ sonucuna göre kullanıcıyı aşağıdaki kategorilere ayırıyoruz:
 <h3 align="center">Connect with me:</h3> 
 <p align="center">
   📧 Email: sabangenc95@gmail.com<br>
-  💬 Discord: @vespagnc<br>
+  💬 Discord: @vexel.dll<br>
 </p>
+
 
