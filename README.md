@@ -8,7 +8,7 @@
 - VKİ hesaplama ve sonucu gösterme 📈
 - VKİ'ye göre değerlendirme ve durumu gösterme 🏋️‍♂️
 - Formun ekran ortasında açılması ve boyutunun sabitlenmesi 🖥️
-- Formun taşınamaz hale getirilmesi 🚫
+- Formun taşınamaz hale getirilmesi 🚫.. 
 
 
 # VKİ Hesaplama Formülü
