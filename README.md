@@ -5,7 +5,7 @@
 # Özellikler
 
 - Kullanıcının boy 📏 ve kilo ⚖️ bilgisini girebilme
-- VKİ hesaplama ve sonucu gösterme 📈. 
+- VKİ hesaplama ve sonucu gösterme 📈
 - VKİ'ye göre değerlendirme ve durumu gösterme 🏋️‍♂️
 - Formun ekran ortasında açılması ve boyutunun sabitlenmesi 🖥️
 - Formun taşınamaz hale getirilmesi 🚫
